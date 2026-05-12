@@ -1,3 +1,11 @@
+---
+title: Cybersecurity Fundamentals MOC
+description: The foundation of IT security concepts, models, and frameworks.
+tags:
+  - cybersecurity
+  - fundamentals
+---
+
 # 🏛️ Cybersecurity Fundamentals
 The foundation of IT security is built on understanding what we are protecting and why.
 

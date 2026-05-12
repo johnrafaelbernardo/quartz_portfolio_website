@@ -1,3 +1,11 @@
+---
+title: Case Studies MOC
+description: Real-world attack analysis and case studies in cybersecurity.
+tags:
+  - cybersecurity
+  - case-studies
+---
+
 # 📁 Real-World Attack Analysis
 
 - [[Case Study - Phantom Attack]]: A step-by-step breakdown of an HR-targeted ransomware attack.
