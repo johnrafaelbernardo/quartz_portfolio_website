@@ -4,10 +4,11 @@ Welcome to my Personal Knowledge System (PKS) focused on IT Security fundamental
 
 ## 🗺️ Maps of Content (MOCs)
 
-- [[01_Fundamentals/cybersecurity-fundamentals-moc|Fundamentals]]
-- [[02_Tactics_Techniques/threat-tactics-techniques-moc|Tactics]]
-- [[03_Case_Studies/case-studies-moc|Case Studies]]
-- [[04_Resources_Career/career-learning-moc|Career & Learning]]
+- [[01-fundamentals/cybersecurity-fundamentals-moc|Fundamentals]]
+- [[02-tactics-techniques/threat-tactics-techniques-moc|Tactics]]
+- [[03-case-studies/case-studies-moc|Case Studies]]
+- [[04-resources-career/career-learning-moc|Career & Learning]]
+- [[portfolio/portfolio|My Portfolio]]
 
 ## 🎯 Purpose
 
