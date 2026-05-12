@@ -2,7 +2,7 @@
 
 Welcome to my Personal Knowledge System (PKS) focused on IT Security fundamentals, threat frameworks, and adversarial tactics. This vault is designed to connect theoretical models with real-world exploitation techniques.
 
-Click here to view my [[Portfolio/portfolio.md]].
+👉 Click here to view my [[Portfolio]].
 
 ## 🗺️ Maps of Content (MOCs)
 - [[Cybersecurity Fundamentals MOC]]: The baseline of security models.
