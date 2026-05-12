@@ -1,3 +1,10 @@
+---
+title: Portfolio
+description: Featured projects and development experience of John Rafael Bernardo
+tags:
+  - portfolio
+---
+
 ## 📂 Featured Projects
 
 > Full stack systems and mobile applications I’ve developed through professional experience and academic work.
