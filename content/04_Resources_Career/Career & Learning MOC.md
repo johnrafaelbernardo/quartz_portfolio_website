@@ -1,3 +1,12 @@
+---
+title: Career & Learning MOC
+description: IT Security career paths, learning resources, and skill development.
+tags:
+  - cybersecurity
+  - career
+  - learning
+---
+
 # 🎓 Career & Learning Path
 
 ## Roles in IT Security

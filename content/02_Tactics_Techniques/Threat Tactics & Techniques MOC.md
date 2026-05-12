@@ -1,3 +1,12 @@
+---
+title: Threat Tactics & Techniques MOC
+description: MITRE ATT&CK-based breakdown of adversary tactics and techniques.
+tags:
+  - cybersecurity
+  - mitre
+  - tactics
+---
+
 # ⚔️ Threat Tactics & Techniques
 Based on the MITRE ATT&CK Framework.
 
