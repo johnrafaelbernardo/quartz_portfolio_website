@@ -46,6 +46,7 @@ Junior Full Stack Engineer (Intern) – Simplevia Technologies
 
 ---
 
+
 ## ⚙️ Development Focus
 
 Across my experience, I focus on:
